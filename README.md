@@ -1,5 +1,5 @@
 # Markdown Practice  
-Hi, I'm **Dipu Mondol** and I am building this directory for keep trach of my markdown learning and creating my own **markdown cheatsheet**.  
+Hi, I'm **Dipu Mondol** and I am building this directory for keeping track of my markdown learning process and creating my own **markdown cheatsheet**.  
 
 ## Tools I am using: 
 * ### vs code
@@ -14,3 +14,4 @@ Hi, I'm **Dipu Mondol** and I am building this directory for keep trach of my ma
 ## 1.Basics:
   * [Headings](https://github.com/Dipu-Mondol/markdown-practice/blob/main/01-basics/01-heading.md)
   * [Paragraphs and line breaks](https://github.com/Dipu-Mondol/markdown-practice/blob/main/01-basics/02-paragraphs-and-line-breaks.md)
+
